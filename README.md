@@ -1,0 +1,1 @@
+https://mihinov.github.io/scam-telegram-fuck/
