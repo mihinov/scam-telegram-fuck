@@ -19,7 +19,6 @@ btn.addEventListener('click', (e) => {
 
 	output.classList.add('transition');
 	if (output.classList.contains('active')) {
-		console.log(1);
 		output.classList.remove('active');
 		localStorage.setItem('active', JSON.stringify(false));
 	} else {
